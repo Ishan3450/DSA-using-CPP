@@ -1,0 +1,8 @@
+Array Methods
+------------------------
+include array
+array<datatype,sizeOfArray> arrayName
+.size();
+.front();
+.back();
+.empty();
